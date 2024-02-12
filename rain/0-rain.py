@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """calculates how much rain will be trapped after it rains
 """
 

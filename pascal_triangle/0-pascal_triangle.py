@@ -36,16 +36,6 @@ def pascal_triangle(n):
                     list_of_list.append(list4)
     return list_of_list
 
-
-
-
-
-
-
-
-
-
-
 # #!/usr/bin/python3
 # """
 # 0-main
